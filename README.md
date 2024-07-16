@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning software engineering in general.
 - 💞️ I’m looking to collaborate on any kind of projects!
 - 📫 How to reach me? Through LinkedIn! I'm looking for a Junior job 🙄
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a bassist, saxophonist, photographer and developer. Amazing, isn't it?
 
 <!---
