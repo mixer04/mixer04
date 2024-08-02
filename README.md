@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mixer04 (Borys Bednarski legally...)
 - 👀 I’m interested in latest technology, programming, music and everything that involves human creativity.
-- 🌱 I’m currently learning software engineering in general.
+- 🌱 I’m currently learning frontend development with React.
 - 💞️ I’m looking to collaborate on any kind of projects!
 - 📫 How to reach me? Through LinkedIn! I'm looking for a Junior job 🙄
 - ⚡ Fun fact: I'm a bassist, saxophonist, photographer and developer. Amazing, isn't it?
