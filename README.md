@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mixer04 (Borys Bednarski legally...)
+- 👋 Hi, I’m Borys!
 - 👀 I’m interested in latest technology, programming, music and everything that involves human creativity.
 - 🌱 I’m currently learning frontend development with React.
 - 💞️ I’m looking to collaborate on any kind of projects!
